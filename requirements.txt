@@ -1,0 +1,12 @@
+accelerate
+datasets==3.2.0
+ipywidgets
+librosa
+numpy==2.2.1
+pandas==2.2.3
+soundfile
+torch==2.5.1
+torchaudio>=2.4.0
+torchinfo
+transformers==4.47.1
+scipy==1.14.1
